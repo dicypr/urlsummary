@@ -4,7 +4,7 @@ Give it a URL, get a snarky LLaMA-powered summary. Built from the Day 1 LLM Engi
 
 ## Stack
 
-- **Backend**: Python serverless function (Vercel)...
+- **Backend**: Python serverless function (Vercel)......
 - **LLM**: LLaMA 3.3 70B via Groq API
 - **Frontend**: Vanilla HTML/CSS/JS (no framework needed)
 
